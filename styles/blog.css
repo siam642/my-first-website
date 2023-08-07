@@ -11,4 +11,11 @@ p{
 }
 div{
     background-color:orange ;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+ol{
+    background-color: aquamarine;
+   padding-top: 5px;
+   padding-bottom: 5px;
 }
